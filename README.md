@@ -178,7 +178,7 @@
 
  *      git branch nome-da-nova-branch
  *      git checkout nome-da-nova-branch
- * ls 
+ *      ls 
  *      git status
 
  ## 5. Realizar um Pull Request e Merge; [✅]
