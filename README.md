@@ -180,7 +180,10 @@
  *      git checkout nome-da-nova-branch
  *      ls 
  *      git status
-
+ *      git switch nome-da-branch
+(trocar de branch)
+*       git checkout -b feature/nome-novo
+ (troca de branch já nomeando-a)
  ## 5. Realizar um Pull Request e Merge; [✅]
 
  *      git checkout main
