@@ -196,6 +196,9 @@
 
 ## 7. Rebase 
 https://git-scm.com/book/pt-br/v2/Branches-no-Git-Rebase
+
+## 8. Padrão de Commits do iRede
+(feature)[Frontend] descrição do que foi alterado/criado
    
     
 
