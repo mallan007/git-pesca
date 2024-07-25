@@ -1,5 +1,5 @@
 
-# DIO | Resumos de Git e GitHub
+# Resumos de Git e GitHub
  
  ## 🔗 Links úteis:
 
